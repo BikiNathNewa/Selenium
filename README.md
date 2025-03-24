@@ -1,1 +1,1 @@
-Selenium related project practise. 
+Selenium related project practice. 
